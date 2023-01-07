@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ShekharHans/myTextUtils/static/css/main.62a18e5f.css",
-    "main.js": "/ShekharHans/myTextUtils/static/js/main.3d9dd197.js",
-    "static/js/787.719ec76d.chunk.js": "/ShekharHans/myTextUtils/static/js/787.719ec76d.chunk.js",
-    "index.html": "/ShekharHans/myTextUtils/index.html",
-    "main.62a18e5f.css.map": "/ShekharHans/myTextUtils/static/css/main.62a18e5f.css.map",
-    "main.3d9dd197.js.map": "/ShekharHans/myTextUtils/static/js/main.3d9dd197.js.map",
-    "787.719ec76d.chunk.js.map": "/ShekharHans/myTextUtils/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/myTextUtils/static/css/main.62a18e5f.css",
+    "main.js": "/myTextUtils/static/js/main.d318d3de.js",
+    "static/js/787.719ec76d.chunk.js": "/myTextUtils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/myTextUtils/index.html",
+    "main.62a18e5f.css.map": "/myTextUtils/static/css/main.62a18e5f.css.map",
+    "main.d318d3de.js.map": "/myTextUtils/static/js/main.d318d3de.js.map",
+    "787.719ec76d.chunk.js.map": "/myTextUtils/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62a18e5f.css",
-    "static/js/main.3d9dd197.js"
+    "static/js/main.d318d3de.js"
   ]
 }
